@@ -10,7 +10,7 @@
 <br>
 <image src="https://blog.kakaocdn.net/dn/pdmgw/btrEE10clL4/5TVMv3feygc2XLcmaIXGYk/img.jpg" width=600px><br>
 <br>
-『딥러닝을 이용한 정형 데이터 분석』 (마크 라이언 지음 | 박찬성 옮김)의 소스 코드와 지원 파일이 담겨 있습니다. 파일은 장 별로 정리되어 있습니다. 책에 나오는 각 코드 목록은 이 저장소의 해당 파일 이름을 참조합니다.<br>
+『딥러닝을 이용한 정형 데이터 분석』 (마크 라이언 지음 | 박찬성 옮김)의 소스 코드와 지원 파일이 담겨 있습니다. 책에 나오는 각 코드 목록은 이 저장소의 해당 파일 이름을 참조합니다.<br>
 오타나 오류 신고는 깃허브 이슈 트래커( https://github.com/onlybooks/structured-data/issues )에 남겨주십시오.<br>
 <br>
   
